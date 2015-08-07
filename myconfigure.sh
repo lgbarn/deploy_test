@@ -1,0 +1,5 @@
+mkdir /root/.ssh
+chmod 700 /root/.ssh
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC9DDvNKsQqgGdvawlGLyu/QtvLwB0n4HSF3OOqNOFpTJ1ijHMZifbODI4lCQ1wpPUAVLzVmtJiGaRgelbDj27ZOfszwjBGi/4zGutFeMsasVTw6ugSlPrkk64znf9ozdFvu/S8+C3Nfm34wijxoXoliR7SuxIRo/qmXRkTy7iEyyhbq0hlj+ytJj6mFLX1phnF+icffdexgEg2q/b5SjiL5pDQZwGnWizIVqeC9DVlzyg4O3wcr6oLI9LxfkekxBsn69gRgKg/a2+okTGiEJp5kzWdfeTPkX5U+DrPKXifhj11xWZdhVJpCR9w55jTruTYJYmFsvfnoAKoSB19b0wT lgbarn@lgbarn-HP-ENVY-m4-Notebook-PC" >> /root/.ssh/authorized_keys
+chmod 644 /root/.ssh/authorized_keys
+
